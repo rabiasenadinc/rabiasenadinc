@@ -3,29 +3,16 @@
   <span style="color:#d6336c;">I'm Sena!</span>
 </h1>
 
-<p align="center">
-  Bilgisayar Mühendisliği mezunuyum (2025) 🎓<br/>
-  Uluslararası deneyimim, çok dilli iletişim becerim ve yazılıma olan tutkumla yolculuğuma devam ediyorum 🌍
-</p>
+# Welcome to my GitHub profile! 👋
 
----
+I'm a passionate and dedicated computer engineer with a strong curiosity for learning and exploring new technologies.
 
-### 💼 Hakkımda Kısaca
+🔭 I’m currently working on AI, Mobile App Development and Web Development  
+🌱 I’m currently learning advanced Flutter and Python  
+📫 How to reach me: senadinc06@gmail.com 
+🌍 Fluent in French, Turkish, and  English (B2)  
 
-- 🎓 **Bilgisayar Mühendisliği** mezunu – Karamanoğlu Mehmetbey Üniversitesi   
-- 💡 Web, mobil uygulama geliştirme ve yapay zeka ile ilgileniyorum  
-- 📱 Bitirme projem: *Kişiye özel çevrimiçi psikolojik destek mobil uygulaması*
-- 🌐 Anadil seviyesinde **Fransızca & Türkçe**, B2 **İngilizce**
-- 🇩🇪 2 kez Almanya’da Erasmus+ staj deneyimi (Data Science & Mobile AI)
+Connect with me:
 
-### 📌 Öne Çıkan Projelerim
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/rabiasenadinc/)
 
-- 💡 [AI Destekli Mobil Psikolojik Destek Uygulaması](#)  
-- 📊 [Goethe Üniversitesi – Veri Bilimi Projesi](#)  
-- 📱 [GWDG – Yapay Zeka Tabanlı Mobil Uygulama](#)  
-
-
----
-
-### 📫 Bana Ulaşın
-- [LinkedIn] https://www.linkedin.com/in/rabiasenadinc/
