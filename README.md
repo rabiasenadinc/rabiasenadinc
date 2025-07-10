@@ -1,4 +1,7 @@
-<h1 align="center">Salut, ben Sena! 👩‍💻</h1>
+<h1 align="center">
+  <span style="color:#6f42c1;">Hey there,</span> <br/>
+  <span style="color:#d6336c;">I'm Sena!</span>
+</h1>
 
 <p align="center">
   Bilgisayar Mühendisliği mezunuyum (2025) 🎓<br/>
