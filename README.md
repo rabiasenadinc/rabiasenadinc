@@ -15,7 +15,6 @@ I'm a passionate and dedicated computer engineer with a strong curiosity for lea
 Connect with me:
 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/rabiasenadinc/)
-![Pinterest Görseli](https://i.pinimg.com/originals/XX/XX/XX/XXXXXX.jpg)
 
 
 
