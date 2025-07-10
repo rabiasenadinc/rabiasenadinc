@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Salut, ben Sena! 👩‍💻</h1>
 
-<!--
-**rabiasenadinc/rabiasenadinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Bilgisayar Mühendisliği mezunuyum (2025) 🎓<br/>
+  Uluslararası deneyimim, çok dilli iletişim becerim ve yazılıma olan tutkumla yolculuğuma devam ediyorum 🌍
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Hakkımda Kısaca
+
+- 🎓 **Bilgisayar Mühendisliği** mezunu – Karamanoğlu Mehmetbey Üniversitesi   
+- 💡 Web, mobil uygulama geliştirme ve yapay zeka ile ilgileniyorum  
+- 📱 Bitirme projem: *Kişiye özel çevrimiçi psikolojik destek mobil uygulaması*
+- 🌐 Anadil seviyesinde **Fransızca & Türkçe**, B2 **İngilizce**
+- 🇩🇪 2 kez Almanya’da Erasmus+ staj deneyimi (Data Science & Mobile AI)
+
+### 📌 Öne Çıkan Projelerim
+
+- 💡 [AI Destekli Mobil Psikolojik Destek Uygulaması](#)  
+- 📊 [Goethe Üniversitesi – Veri Bilimi Projesi](#)  
+- 📱 [GWDG – Yapay Zeka Tabanlı Mobil Uygulama](#)  
+
+
+---
+
+### 📫 Bana Ulaşın
+- [LinkedIn] https://www.linkedin.com/in/rabiasenadinc/
