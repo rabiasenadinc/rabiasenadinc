@@ -8,7 +8,7 @@
 I'm a passionate and dedicated computer engineer with a strong curiosity for learning and exploring new technologies.
 
 🔭 I’m currently working on AI, Mobile App Development and Web Development  
-🌱 I’m currently learning advanced Flutter and Python  
+🌱 I’m currently learning advanced Flutter, React Native and Python  
 📫 How to reach me: senadinc06@gmail.com 
 🌍 Fluent in French, Turkish, and  English (B2)  
 
